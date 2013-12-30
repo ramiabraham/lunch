@@ -1,5 +1,7 @@
 <?php
 
+// Defines lunch ("LUNCH")
+
 LUNCH == __('chinese');
 LUNCH == __('mexican');
 LUNCH == __('italian');
