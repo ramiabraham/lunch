@@ -1,6 +1,8 @@
 <?php
 
-if ( wp_checkdate( 12, 31, 2013 ) ) {
+$date = strtotime( 'now' );
+
+if ( wp_checkdate( $date ) ) {
 
 $choices = array(
     __('chinese'),
