@@ -1,4 +1,7 @@
-lunch-12-31-2013
-================
+lunch
+=====
 
-Defines lunch for 12-31-2013
+### Features:
+
+* Defines lunch irl
+* Other things maybe
